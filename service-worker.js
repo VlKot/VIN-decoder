@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/VIN-decoder/precache-manifest.efb809c35d29e9e658165da9a4b385eb.js"
+  "/VIN-decoder/precache-manifest.82162ac1ccc1108b09616c13572e72fa.js"
 );
 
 self.addEventListener('message', (event) => {

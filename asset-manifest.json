@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/VIN-decoder/static/css/main.4a4e4ab6.chunk.css",
-    "main.js": "/VIN-decoder/static/js/main.ac090c65.chunk.js",
-    "main.js.map": "/VIN-decoder/static/js/main.ac090c65.chunk.js.map",
+    "main.js": "/VIN-decoder/static/js/main.3d77ad31.chunk.js",
+    "main.js.map": "/VIN-decoder/static/js/main.3d77ad31.chunk.js.map",
     "runtime-main.js": "/VIN-decoder/static/js/runtime-main.1e61065a.js",
     "runtime-main.js.map": "/VIN-decoder/static/js/runtime-main.1e61065a.js.map",
     "static/js/2.bbecec1e.chunk.js": "/VIN-decoder/static/js/2.bbecec1e.chunk.js",
     "static/js/2.bbecec1e.chunk.js.map": "/VIN-decoder/static/js/2.bbecec1e.chunk.js.map",
     "index.html": "/VIN-decoder/index.html",
-    "precache-manifest.efb809c35d29e9e658165da9a4b385eb.js": "/VIN-decoder/precache-manifest.efb809c35d29e9e658165da9a4b385eb.js",
+    "precache-manifest.82162ac1ccc1108b09616c13572e72fa.js": "/VIN-decoder/precache-manifest.82162ac1ccc1108b09616c13572e72fa.js",
     "service-worker.js": "/VIN-decoder/service-worker.js",
     "static/css/main.4a4e4ab6.chunk.css.map": "/VIN-decoder/static/css/main.4a4e4ab6.chunk.css.map",
     "static/js/2.bbecec1e.chunk.js.LICENSE.txt": "/VIN-decoder/static/js/2.bbecec1e.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.1e61065a.js",
     "static/js/2.bbecec1e.chunk.js",
     "static/css/main.4a4e4ab6.chunk.css",
-    "static/js/main.ac090c65.chunk.js"
+    "static/js/main.3d77ad31.chunk.js"
   ]
 }
